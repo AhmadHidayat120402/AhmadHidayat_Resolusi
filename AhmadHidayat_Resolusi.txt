@@ -7,3 +7,4 @@ Ahmad Hidayat Resolusi :
 - buat portfolio dengan website yang responsive
 - belajar java,kotlin,html,css,javascript dsb
 - harus dapat sertifikat AAD (Android Associate Developer)
+- kerja di starup unicorn seperti gojek atau tokopedia
