@@ -1,5 +1,7 @@
 RENCANA BLOG AHMAD HIDAYAT
 - java
+* dasar pemrograman
+* oop
 - kotlin 
 - android
 - database
