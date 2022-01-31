@@ -7,5 +7,6 @@ RENCANA BLOG AHMAD HIDAYAT
 * oop
 - android
 - database
+* mysql
 - xml
 - front end
