@@ -1,0 +1,6 @@
+RENCANA BLOG AHMAD HIDAYAT
+- java
+- kotlin 
+- android
+- database
+- xml
