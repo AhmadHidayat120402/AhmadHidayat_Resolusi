@@ -3,6 +3,8 @@ RENCANA BLOG AHMAD HIDAYAT
 * dasar pemrograman
 * oop
 - kotlin 
+* dasar kotlin
+* oop
 - android
 - database
 - xml
