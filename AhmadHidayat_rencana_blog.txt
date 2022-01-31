@@ -6,3 +6,4 @@ RENCANA BLOG AHMAD HIDAYAT
 - android
 - database
 - xml
+- front end
