@@ -10,3 +10,6 @@ RENCANA BLOG AHMAD HIDAYAT
 * mysql
 - xml
 - front end
+* html
+* css
+* javaScript
