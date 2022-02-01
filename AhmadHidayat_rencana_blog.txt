@@ -5,5 +5,7 @@ RENCANA BLOG AHMAD HIDAYAT
 - kotlin 
 - android
 - database
-- xml
 - front end
+* html
+* css
+* javaScript
